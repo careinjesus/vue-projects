@@ -1,0 +1,17 @@
+#mainBlock {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-width: 100%;
+  display: flex;
+  align-items: center;
+  border: 3px solid red;
+  /* flex-direction: column; */
+
+  justify-content: space-between;
+
+  /* grid-template-columns: 1; */
+  /* grid-column-end: span 5; */ /* Making 1 column screen */
+  /* padding-bottom: 24px; */
+  /* grid-auto-columns: 100%; */
+}
